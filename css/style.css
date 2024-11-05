@@ -21,10 +21,10 @@
   
     /* Color list */
     --color-white: #ffffff;
-    --color-black: #050a13;
-    --color-blue: #03e8f9;
-    --color-orange: #fd6413;
-    --color-gray: #1b1e26;
+    --color-black: darkcyan;
+    --color-blue: rgb(238, 255, 0);
+    --color-orange: #5113fd;
+    --color-gray: rgb(5, 112, 112);
   
     /* size */
     --max-size-width: 1200px;
